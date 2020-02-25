@@ -10,4 +10,4 @@
 
 ## Analyze data using analysis.py
  - Create Matplotlib graphs of variables mapped against popularity
- - Daya from MinData.csv
+ - Data from MinData.csv
